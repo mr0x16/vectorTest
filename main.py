@@ -62,7 +62,7 @@ constant_2_2 = 9.883
 line_2_2 = Line(normal_vector2_2, constant_2_2)
 line_2_1.intersection_with(line_2_2)
 
-#第三部分
+#第三题
 print('\n#3')
 normal_vector3_1 = Vector([1.182, 5.562])
 constant_3_1 = 6.744
